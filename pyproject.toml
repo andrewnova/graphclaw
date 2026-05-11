@@ -1,0 +1,21 @@
+[project]
+name = "graphclaw"
+version = "0.1.0"
+description = "Local-first Microsoft 365 source collector for agents."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Graphclaw Contributors" }]
+license = { text = "MIT" }
+keywords = ["microsoft-graph", "outlook", "calendar", "agents", "local-first"]
+
+[project.urls]
+Homepage = "https://andrewnova.github.io/graphclaw/"
+Repository = "https://github.com/andrewnova/graphclaw"
+Issues = "https://github.com/andrewnova/graphclaw/issues"
+
+[project.scripts]
+graphclaw = "graphclaw.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

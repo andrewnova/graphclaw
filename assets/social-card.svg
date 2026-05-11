@@ -1,0 +1,18 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#0F172A"/>
+  <circle cx="1060" cy="120" r="240" fill="#0078D4" opacity=".18"/>
+  <circle cx="150" cy="540" r="260" fill="#22C55E" opacity=".12"/>
+  <g transform="translate(96 104) scale(.64)">
+    <rect width="512" height="512" rx="112" fill="#111827"/>
+    <path d="M132 166C132 147.222 147.222 132 166 132H214C232.778 132 248 147.222 248 166V214C248 232.778 232.778 248 214 248H166C147.222 248 132 232.778 132 214V166Z" fill="#0078D4"/>
+    <path d="M264 166C264 147.222 279.222 132 298 132H346C364.778 132 380 147.222 380 166V214C380 232.778 364.778 248 346 248H298C279.222 248 264 232.778 264 214V166Z" fill="#22C55E"/>
+    <path d="M132 298C132 279.222 147.222 264 166 264H214C232.778 264 248 279.222 248 298V346C248 364.778 232.778 380 214 380H166C147.222 380 132 364.778 132 346V298Z" fill="#38BDF8"/>
+    <path d="M264 298C264 279.222 279.222 264 298 264H346C364.778 264 380 279.222 380 298V346C380 364.778 364.778 380 346 380H298C279.222 380 264 364.778 264 346V298Z" fill="#F8FAFC"/>
+    <path d="M352 146C343 204 322 249 288 282C256 313 216 331 168 335" stroke="#F8FAFC" stroke-width="18" stroke-linecap="round"/>
+    <path d="M226 143C255 185 268 225 260 264" stroke="#F8FAFC" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <text x="470" y="236" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="88" font-weight="800">Graphclaw</text>
+  <text x="476" y="314" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="600">Microsoft 365 source collector for your agents.</text>
+  <text x="476" y="388" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27">Outlook mail, calendar, and contacts via Graph delta APIs.</text>
+  <text x="476" y="430" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Local SQLite - Raw provenance - Agent-ready exports</text>
+</svg>
